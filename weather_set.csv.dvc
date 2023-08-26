@@ -1,0 +1,5 @@
+outs:
+- md5: d652d757356869b81c028f8e3d4b2ca8
+  size: 2714337
+  hash: md5
+  path: weather_set.csv
